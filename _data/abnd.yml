@@ -154,3 +154,48 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/osama-chaban-a85a7115/
+
+- name: My Custom News App 
+  banner: https://i.imgur.com/G2qzpo3.jpg
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/DJ-Akasha/NewsAppStage1and2
+  description: |
+    This app uses the Guardian API to display news articles on the phone. The user can customize 
+    the articles that are shown by inputting a specific word or group of words. The user can 
+    also choose how many articles will be displayed as well as in what order. 
+  author: Elisa Simone
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/DJ-Akasha
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/elisasimone/
+
+  author_location: London, UK
+  author_avatar: https://i.imgur.com/42JwC1U.jpg
+
+- name: Lisbon Tour Guide App
+  banner: https://i.imgur.com/0xtzQPV.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/whybandre/LisbonTourGuideApp
+  description: |
+    In this app you can find 6 different cool places in Lisbon per category: art and culure, eat, drink and parks!
+    There you can find description of amazing areas in different neighborhoods! From bookshops to a historic tram 28!
+    
+    Come visit Lisbon!
+    
+  author: Bruno André
+  author_avatar: https://i.imgur.com/nMYqGvB.png
+  author_location: Lisbon, Portugal
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/whybandre/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/brunorfandre/
